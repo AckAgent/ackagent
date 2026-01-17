@@ -9,7 +9,7 @@ AckAgent routes signing and authorization requests from desktop tools and web ap
 ### macOS (Homebrew)
 
 ```bash
-brew install ackagent/ackagent/ackagent
+brew install ackagent/tap/ackagent
 ```
 
 ### macOS (Package Installer)
